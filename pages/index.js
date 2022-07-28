@@ -18,8 +18,8 @@ function Contador(){
         <div>
             <div>{contador}</div>
             <button onClick={adicionarContador}>Adiciona</button>
+            <h1>Vai planeta!</h1>
         </div>
-        <h1>Vai planeta!</h1>
     )
 }
 
