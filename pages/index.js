@@ -19,6 +19,7 @@ function Contador(){
             <div>{contador}</div>
             <button onClick={adicionarContador}>Adiciona</button>
             <h1>Vai planeta!</h1>
+            <h3>Fogo, agua, vento, meio kilo de jeba, vai planeta</h3>
         </div>
     )
 }
